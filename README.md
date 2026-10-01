@@ -93,8 +93,8 @@ Prinsipnya: satu file, satu tugas. Kalau ingin mengganti model AI, cukup menguba
 1. Clone repo dan masuk ke foldernya:
 
    ```bash
-   git clone <URL-REPO-KAMU>
-   cd smartsplit-bill
+   git clone https://github.com/Jawaaa/smartsplit-bil-AI/tree/main
+   cd smartsplit-bil-AI
    ```
 
 2. Buat dan aktifkan virtual environment:
